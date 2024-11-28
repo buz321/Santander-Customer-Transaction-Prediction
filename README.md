@@ -1,3 +1,9 @@
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/buz321/Santander-Customer-Transaction-Prediction&title=Views)
+
+
+
+
+
 # Santander Customer Transaction Prediction
 
 ## Overview
