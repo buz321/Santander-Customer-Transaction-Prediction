@@ -1,4 +1,4 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/buz321/Santander-Customer-Transaction-Prediction&title=Views)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=buz321)
 
 
 
